@@ -1,4 +1,4 @@
-module github.com/meatballhat/negroni-logrus
+module github.com/deoxxa/negroni-logrus
 
 go 1.13
 

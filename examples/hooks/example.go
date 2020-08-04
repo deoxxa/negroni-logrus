@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/sirupsen/logrus"
-	"github.com/urfave/negroni"
+	"github.com/urfave/negroni/v2"
 	"github.com/meatballhat/negroni-logrus"
 )
 

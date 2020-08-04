@@ -11,7 +11,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
-	"github.com/urfave/negroni"
+	"github.com/urfave/negroni/v2"
 )
 
 var (
